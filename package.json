@@ -1,0 +1,21 @@
+{
+  "name": "section2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node example2_server/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^6.4.0",
+    "parcel": "^2.0.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "perfcure": "https://github.com/Gojitaa/perfcure.git",
+    "spdy": "^4.0.2"
+  }
+}
